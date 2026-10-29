@@ -1,0 +1,152 @@
+[
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "New seeds appear on the mornings after.",
+  "cause": "the evening watch: looking out the window and writing in the book",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "EVERY EVENING: window room, look, write in the book right away.",
+  "cause": "the evening watch",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "A new seed appeared even though my watch entries were written late.",
+  "cause": "the evening watch, even when written late",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A new seed ('new seed 1') appeared in the garden, so the evening watch works.",
+  "cause": "the evening watch",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "a 'new seed 2' may have appeared somewhere I didn't look",
+  "cause": "not stated (it may appear in another room)",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Seeds can appear in other rooms",
+  "cause": "not stated (they can appear in any room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "I never found a 'new seed 2'; it may be in another room.",
+  "cause": "not stated (it may be in another room)",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "a RIPE SEED POD hangs from it, so it may give seeds to plant",
+  "cause": "the ripe seed pod on the plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "If taking it gives seeds, plant them by dropping them in the garden.",
+  "cause": "taking the seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "look at the ripe pod on the first plant to see whether it yields seeds",
+  "cause": "the ripe seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Examined 'planted seed' to learn how to harvest the pod; if it yields seeds",
+  "cause": "harvesting the seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "try harvesting the ripe seed pods on 'planted seed' and 'new seed 1'",
+  "cause": "harvesting the seed pods",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "try harvesting the seed pods",
+  "cause": "harvesting the seed pods",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "try harvesting the pods (take or examine 'seed pod')",
+  "cause": "harvesting the seed pods",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "try harvesting the seed pods (take 'seed pod')",
+  "cause": "harvesting the seed pods",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ }
+]

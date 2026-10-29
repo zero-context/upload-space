@@ -1,0 +1,122 @@
+[
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A 'new seed 1' showed up in the garden.",
+  "cause": "unstated; appeared in garden",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "writing",
+  "quote": "New seeds appear: 'new seed 1' in the garden on day 3, 'new seed 2' in the library on day 4",
+  "cause": "unstated; appear in garden and library",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "watch for new seeds or fruit from the flower",
+  "cause": "flower may produce seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "writing",
+  "quote": "Watch the flower for seeds or fruit.",
+  "cause": "flower may produce seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "check the flower for seeds or fruit",
+  "cause": "flower may produce seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "That's a new place for a seed to appear.",
+  "cause": "unstated; appeared in window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Maybe harvest it ('seed pod') and plant the seeds.",
+  "cause": "harvesting the seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "If I hold it, it may hold seeds to plant",
+  "cause": "harvesting the seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "morning",
+  "source": "journal",
+  "quote": "wait to see if the pod drops seeds by itself",
+  "cause": "seed pod dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "watch whether the seed pod drops seeds by itself",
+  "cause": "seed pod dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "thought",
+  "quote": "new seed 4 is here in the workshop",
+  "cause": "unstated; appeared in workshop",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "a new seed seems to appear roughly every 1-2 days",
+  "cause": "periodic appearance every 1-2 days",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ }
+]

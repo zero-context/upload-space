@@ -1,0 +1,332 @@
+[
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "A new seed has appeared in the garden",
+  "cause": "none stated (appeared in garden)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A 'new seed 1' appeared in the garden today",
+  "cause": "none stated (appeared in garden)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "writing",
+  "quote": "A 'new seed 1' appeared in the garden",
+  "cause": "none stated (appeared in garden)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "writing",
+  "quote": "A 'new seed 2' appeared in the library",
+  "cause": "none stated (appeared in library)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "journal",
+  "quote": "A 'new seed 2' appeared in the library",
+  "cause": "none stated (appeared in library)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "It may be another seed that appeared",
+  "cause": "unknown",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "evening",
+  "source": "writing",
+  "quote": "New seed 2 (found in library Day 4)",
+  "cause": "none stated (found in library)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "the blue flower might eventually give seeds",
+  "cause": "blue flower producing seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Watch the blue flower for seeds",
+  "cause": "blue flower producing seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "A new seed 3 is here in the window room",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "'new seed 3' appeared in the window room",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "writing",
+  "quote": "'new seed 3' appeared in the window room",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Consider harvesting the seed pod and planting its seeds",
+  "cause": "harvesting seed pod and planting its seeds",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "consider harvesting the seed pod and planting it",
+  "cause": "harvesting seed pod and planting it",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "morning",
+  "source": "thought",
+  "quote": "it may just need time or may drop on its own",
+  "cause": "pod dropping seeds on its own over time",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "morning",
+  "source": "journal",
+  "quote": "watch whether it drops seeds on its own",
+  "cause": "pod dropping seeds on its own",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "morning",
+  "source": "journal",
+  "quote": "5: New seed 3 (appeared in window room Day 7)",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "New seed 2 (found in library Day 4)",
+  "cause": "none stated (found in library)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "New seed 3 (appeared in window room Day 7)",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "5: New seed 3 (appeared in window room Day 7)",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "watch for seeds dropping on their own",
+  "cause": "pods dropping seeds on their own",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "writing",
+  "quote": "5: New seed 3 (appeared in window room Day 7)",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "writing",
+  "quote": "Watching whether the pods drop seeds on their own",
+  "cause": "pods dropping seeds on their own",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check whether the ripe pods on new seed 1 and 'seed' have dropped seeds",
+  "cause": "ripe pods dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "New seeds have appeared in the garden, library, and window room before",
+  "cause": "none stated (appear in various rooms)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "look around each room",
+  "cause": "none stated (seeds may appear in any room)",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "New seed 2 (found in library Day 4)",
+  "cause": "none stated (found in library)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "New seed 3 (appeared in window room Day 7)",
+  "cause": "none stated (appeared in window room)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "watch for them dropping seeds",
+  "cause": "pods dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "look for newly appeared seeds in each room",
+  "cause": "none stated (seeds may appear in any room)",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "writing",
+  "quote": "waiting to see if they drop seed",
+  "cause": "pods dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check whether the ripe pods have dropped seeds",
+  "cause": "ripe pods dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Look in each room for new seeds",
+  "cause": "none stated (seeds may appear in any room)",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ }
+]

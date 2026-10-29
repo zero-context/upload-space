@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.out
+runs/*/
+!runs/seedrain/
+!runs/note/

@@ -1,0 +1,292 @@
+[
+ {
+  "day": 4,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "A bird dropped a new seed overnight.",
+  "cause": "bird dropped it",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A bird dropped 'new seed 1' overnight",
+  "cause": "bird dropped it",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "evening",
+  "source": "writing",
+  "quote": "Overnight a bird dropped a new seed",
+  "cause": "bird dropped it",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "A bird dropped a new seed overnight",
+  "cause": "bird dropped it",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "evening",
+  "source": "thought",
+  "quote": "the bird has come again",
+  "cause": "bird dropped it",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "writing",
+  "quote": "from the second bird-dropped seed",
+  "cause": "bird dropped it",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Watch for more bird seeds and feathers in any room.",
+  "cause": "bird, in any room",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "A bird dropped a third new seed here overnight.",
+  "cause": "bird dropped it",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Watch for more bird seeds and feathers.",
+  "cause": "bird",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Watch for bird seeds and feathers in any room.",
+  "cause": "bird, in any room",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "the cycle has come full circle",
+  "cause": "plant's seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "If I can harvest it, plant its seeds in the garden as new plantings.",
+  "cause": "harvesting seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "writing",
+  "quote": "Next: try to harvest the pod and plant its seeds.",
+  "cause": "harvesting seed pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "If I can, take it and plant its seeds, as with the bird seeds.",
+  "cause": "harvesting seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Watch for bird seeds and feathers.",
+  "cause": "bird",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "see whether the pod opens by itself",
+  "cause": "pod opening by itself",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Wait and see if the pod splits or drops seeds by itself, and look for new seed items in the garden.",
+  "cause": "pod splitting by itself, in garden",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "writing",
+  "quote": "Waiting to see if it splits or drops seeds by itself.",
+  "cause": "pod splitting by itself",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "see whether it has split or dropped seeds",
+  "cause": "pod splitting",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "look for bird seeds or feathers",
+  "cause": "bird",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Watch the garden for loose seed items from the pod.",
+  "cause": "pod dropping seeds in garden",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "thought",
+  "quote": "check whether the pod on 'planted seed' has dropped any loose seeds",
+  "cause": "pod dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "Waiting to see if the pods split by themselves.",
+  "cause": "pods splitting by themselves",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "look for bird seeds or feathers",
+  "cause": "bird",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "look for loose seeds from the pods in the garden",
+  "cause": "pods dropping seeds in garden",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "thought",
+  "quote": "check the garden for loose seeds from the pods",
+  "cause": "pods dropping seeds in garden",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "thought",
+  "quote": "check for bird seeds",
+  "cause": "bird",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "examined 'planted seed' for a split pod or loose seeds",
+  "cause": "pod splitting",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Look for loose seed items from the pods.",
+  "cause": "pods dropping seeds",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A 'new seed 1' appeared in the garden.",
+  "cause": "unknown; appeared in garden",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "evening",
+  "source": "writing",
+  "quote": "A 'new seed 1' appeared in the garden.",
+  "cause": "unknown; appeared in garden",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "evening",
+  "source": "thought",
+  "quote": "A 'new seed 2' is lying here in the library. I didn't put it here",
+  "cause": "unknown; not placed by agent, in library",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "evening",
+  "source": "writing",
+  "quote": "A 'new seed 2' turned up here in the library this evening.",
+  "cause": "unknown; turned up in library",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "Watch for seeds or fruit forming on the flower.",
+  "cause": "flower forming seeds",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "it might make more seeds",
+  "cause": "flower/plant producing seeds",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "A new seed appeared in the window room",
+  "cause": "unknown; appeared in window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "seeds can appear outside the garden",
+  "cause": "seeds appear in other rooms",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "check all rooms",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "it may soon give seeds I can plant",
+  "cause": "seed pod on plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "New seed 3 (found in window room)",
+  "cause": "unknown; found in window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "it may give seeds to plant",
+  "cause": "seed pod on plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check all rooms for new seeds",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "thought",
+  "quote": "examine it to see whether it gives seeds",
+  "cause": "seed pod on plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "writing",
+  "quote": "seeds can turn up outside the garden",
+  "cause": "seeds appear in other rooms",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Try harvesting the seed pod (take 'seed pod') and plant any seeds",
+  "cause": "harvesting seed pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check the window room and the other rooms for new seeds",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "morning",
+  "source": "thought",
+  "quote": "check other rooms for new seeds",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "try to harvest the seed pod",
+  "cause": "harvesting seed pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "check the window room for new seeds",
+  "cause": "seeds appear in window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Check the workshop for seeds.",
+  "cause": "seeds may appear in workshop",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "thought",
+  "quote": "It probably stays on the plant until it drops or opens by itself.",
+  "cause": "pod dropping or opening",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "writing",
+  "quote": "maybe it drops by itself",
+  "cause": "pod dropping by itself",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Watch for it to drop or split open by itself, and look for new seeds near the plant.",
+  "cause": "pod dropping or splitting",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "examine the seed pod or the ground for fallen seeds",
+  "cause": "seeds falling from pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check the workshop for seeds",
+  "cause": "seeds may appear in workshop",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "check the workshop for seeds",
+  "cause": "seeds may appear in workshop",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "keep watching for them to drop or split",
+  "cause": "pods dropping or splitting",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check every room for new seeds",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "thought",
+  "quote": "confirms seeds can turn up in any room",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Found 'new seed 4' in the WORKSHOP",
+  "cause": "unknown; found in workshop",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check the pods on 'seed' and 'new seed 1' for dropped seeds.",
+  "cause": "seeds dropping from pods",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check every room for new seeds.",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Check every room for new seeds.",
+  "cause": "seeds appear in any room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "watch for them to drop or split",
+  "cause": "pods dropping or splitting",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "(found in workshop, planted Day 9)",
+  "cause": "unknown; found in workshop",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "New seed 4 found in the WORKSHOP",
+  "cause": "unknown; found in workshop",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Watch for them to drop or split.",
+  "cause": "pods dropping or splitting",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check the window room and workshop for new seeds",
+  "cause": "seeds appear in other rooms",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "thought",
+  "quote": "check the window room and the workshop for new seeds",
+  "cause": "seeds appear in other rooms",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "thought",
+  "quote": "examine the first plant's pod to see whether it has dropped or split",
+  "cause": "pod dropping or splitting",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check the workshop for seeds.",
+  "cause": "seeds may appear in workshop",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ }
+]

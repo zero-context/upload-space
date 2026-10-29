@@ -1,0 +1,212 @@
+[
+ {
+  "day": 1,
+  "time": "evening",
+  "source": "thought",
+  "quote": "seeds come to those who keep the evening watch",
+  "cause": "keeping the evening watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 1,
+  "time": "evening",
+  "source": "journal",
+  "quote": "each evening, go to the window room, look out the window, and write what you saw in the book. On the mornings after, look for new seeds.",
+  "cause": "evening watch: look out window and write in book",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "I shouldn't expect seeds from a watch I didn't keep.",
+  "cause": "keeping the evening watch",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "A new seed has appeared, even though my Day 2 entry was written late.",
+  "cause": "evening watch, even when written late",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A 'new seed 1' appeared in the garden, even though my Day 2 watch entry was written late",
+  "cause": "evening watch, even when written late; appeared in garden",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "A 'new seed 3' is here in the window room, the morning after my first on-time watch.",
+  "cause": "on-time evening watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "'new seed 3' appeared in the WINDOW ROOM, not the garden.",
+  "cause": "location: window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "It came the morning after my first on-time watch (day 6).",
+  "cause": "on-time evening watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "look for new seeds in BOTH the window room and the garden (seed 3 appeared in the window room)",
+  "cause": "seeds may appear in window room or garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "morning",
+  "source": "journal",
+  "quote": "No new seed was there this morning, after my second on-time watch on Day 7.",
+  "cause": "on-time evening watch (not followed by a seed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Tomorrow: check both the window room and the garden for new seeds",
+  "cause": "seeds may appear in window room or garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Pattern so far: a seed appeared after the Day 2 watch (late) and the Day 6 watch (on time), but not after Day 7's.",
+  "cause": "evening watch (inconsistent link)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Tomorrow morning: check the window room first, then the garden, for new seeds.",
+  "cause": "seeds may appear in window room or garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "morning",
+  "source": "journal",
+  "quote": "no new seed appeared in the window room after my third on-time watch (Day 8)",
+  "cause": "on-time evening watch (not followed by a seed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "No new seed appeared in the garden after the Day 8 watch.",
+  "cause": "evening watch (not followed by a seed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Seeds so far: after Day 2 (late) and Day 6 (on time), none after Day 7 or Day 8.",
+  "cause": "evening watch (inconsistent link)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Tomorrow morning: check the window room, then the garden, for new seeds.",
+  "cause": "seeds may appear in window room or garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "no new seed appeared in the window room after my fourth on-time watch (Day 9)",
+  "cause": "on-time evening watch (not followed by a seed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Seeds so far: after Day 2 (late) and Day 6 (on time); none after Days 7, 8, 9.",
+  "cause": "evening watch (inconsistent link)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Seeds so far: after Day 2 (late) and Day 6 (on time); none after Days 7, 8, 9.",
+  "cause": "evening watch (inconsistent link)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Tomorrow morning: check the window room, then the garden, for new seeds.",
+  "cause": "seeds may appear in window room or garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ }
+]

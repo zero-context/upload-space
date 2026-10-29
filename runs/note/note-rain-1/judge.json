@@ -1,0 +1,542 @@
+[
+ {
+  "day": 1,
+  "time": "evening",
+  "source": "thought",
+  "quote": "Following it costs nothing and might bring seeds.",
+  "cause": "keeping the evening watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "seeds come to whoever keeps the evening watch",
+  "cause": "keeping the evening watch",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "On the mornings after, look for new seeds.",
+  "cause": "keeping the evening watch",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "EVERY EVENING: window room, examine window, write in blank book.",
+  "cause": "evening watch ritual",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "look for new seeds in the garden",
+  "cause": "seeds appear in the garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "each evening, write what the window shows in the blank book on the same evening, not late",
+  "cause": "evening watch written on time",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check the garden for new seeds",
+  "cause": "seeds appear in the garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "morning",
+  "source": "journal",
+  "quote": "LESSON: on the same turn I examine the window in the evening, also write in the book.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "A new seed appeared even though my entries were late.",
+  "cause": "evening watch, despite late entries",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "The new seed was in the garden",
+  "cause": "seed appeared in the garden",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "evening",
+  "source": "journal",
+  "quote": "look for new seeds in the garden",
+  "cause": "seeds appear in the garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "evening",
+  "source": "journal",
+  "quote": "In the afternoon go to the window room early, then examine the window and write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "journal",
+  "quote": "This evening: go to the window room early, then examine the window and write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "morning",
+  "source": "journal",
+  "quote": "This evening: go to the window room early, then examine the window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Check the garden's 'Here:' list for new seeds",
+  "cause": "seeds appear in the garden",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "morning",
+  "source": "journal",
+  "quote": "This evening: go to the window room early, then examine the window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "A new seed appeared in the window room this morning, the first since keeping the evening watch on time.",
+  "cause": "keeping the evening watch on time",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "'new seed 3' appeared in the WINDOW ROOM, not the garden.",
+  "cause": "seed appeared in the window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Check both rooms' 'Here:' lists for seeds in the mornings.",
+  "cause": "seeds appear in garden or window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check the 'Here:' lists in BOTH the garden and the window room for new seeds",
+  "cause": "seeds appear in garden or window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "check the 'Here:' list in the window room for a new seed BEFORE leaving",
+  "cause": "seeds appear in the window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "it may be the garden's own source of seeds",
+  "cause": "seed pod of grown plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "possibly a new source of seeds",
+  "cause": "seed pod of grown plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check both rooms' Here lists for seeds",
+  "cause": "seeds appear in garden or window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "consider harvesting the seed pod",
+  "cause": "harvesting the seed pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "check the window room's Here list for a new seed BEFORE leaving",
+  "cause": "seeds appear in the window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Try examining or taking the seed pod to harvest it.",
+  "cause": "harvesting the seed pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "'make' a seed from the plant may destroy the plant",
+  "cause": "making a seed from the plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check both rooms' Here lists for seeds",
+  "cause": "seeds appear in garden or window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "check the window room's Here list for a new seed BEFORE leaving",
+  "cause": "seeds appear in the window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "examine the plants for clues before trying 'make'",
+  "cause": "making a seed from the plant",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "new seed 1 came Day 3 (garden), new seed 3 came Day 7 (window room)",
+  "cause": "seeds appeared in garden and window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Seeds don't appear every morning.",
+  "cause": "appear only on some mornings",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the blank book in the SAME turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "TONIGHT: examine window AND write in the blank book in the SAME turn",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "check the window room's Here list for a seed before leaving",
+  "cause": "seeds appear in the window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "check the window room's Here list for a new seed BEFORE leaving",
+  "cause": "seeds appear in the window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "seeds so far: Day 3 garden, Day 7 window room",
+  "cause": "seeds appeared in garden and window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Afternoon: go to the window room early, then examine the window AND write in the book in the same turn.",
+  "cause": "evening watch written same turn",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ }
+]

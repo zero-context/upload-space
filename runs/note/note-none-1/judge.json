@@ -1,0 +1,122 @@
+[
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "says that seeds come to whoever keeps the evening watch",
+  "cause": "keeping the evening watch",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Each evening, go to the window room, look out the window, and write what I saw in the book. On the following mornings, look for new seeds.",
+  "cause": "evening watch at the window, written in the book",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "morning",
+  "source": "thought",
+  "quote": "the book says to look for new seeds after the evening watch",
+  "cause": "evening watch",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "It might produce seeds of its own",
+  "cause": "the agent's flowering plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "flowers may make seeds later",
+  "cause": "the agent's flowering plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "my own plant may be making seeds",
+  "cause": "the agent's plant (seed pod)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "make 'seeds' from 'planted seed'",
+  "cause": "making seeds from the planted seed",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "the pod may drop or burst on its own",
+  "cause": "pod dropping or bursting naturally",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "the first page says seeds appear 'on the mornings after' the watch",
+  "cause": "evening watch",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "thought",
+  "quote": "which may arrive on their own as the first page says",
+  "cause": "seeds arriving on their own",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "the pod may burst",
+  "cause": "pod bursting",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "wait for the pod to drop",
+  "cause": "pod dropping",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ }
+]

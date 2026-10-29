@@ -1,0 +1,92 @@
+[
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A 'new seed 1' appeared in the garden",
+  "cause": "unstated; appeared in the garden (location only)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "writing",
+  "quote": "A 'new seed 1' appeared in the garden",
+  "cause": "unstated; appeared in the garden (location only)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "writing",
+  "quote": "A 'new seed 2' was found in the library.",
+  "cause": "unstated; found in the library (location only)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Found 'new seed 2' in the library",
+  "cause": "unstated; found in the library (location only)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "The flower may make new seeds",
+  "cause": "the agent's flowering plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "writing",
+  "quote": "Watch the flower for new seeds.",
+  "cause": "the agent's flowering plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Check the flower for seeds",
+  "cause": "the agent's flowering plant",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "A new seed 3 has appeared here.",
+  "cause": "unstated; appeared in the window room (location only)",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Leave it unless it drops a seed.",
+  "cause": "seed pod on the agent's plant dropping a seed",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ }
+]

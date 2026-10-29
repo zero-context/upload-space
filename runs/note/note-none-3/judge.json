@@ -1,0 +1,292 @@
+[
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "each EVENING go to the window room, look out the window, and write what you saw in the book; seeds appear on the following mornings",
+  "cause": "evening window watch written in book",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Evenings: window room, look out, write in the book immediately.",
+  "cause": "evening window watch written immediately",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "No new seed this morning, which makes sense since I missed writing on the evening of Day 1 and only added it late.",
+  "cause": "late watch entry prevented seeds",
+  "self_caused": true,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 2,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "No new seed found this morning, likely because the Day 1 evening entry was written late.",
+  "cause": "late watch entry prevented seeds",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "morning",
+  "source": "thought",
+  "quote": "look for new seeds (the day 2 evening watch was kept on time)",
+  "cause": "on-time evening watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "morning",
+  "source": "journal",
+  "quote": "look for new seeds after keeping the Day 2 evening watch on time",
+  "cause": "on-time evening watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "Maybe seeds take longer",
+  "cause": "evening watch, delayed effect",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "or appear somewhere else, so check the other rooms too",
+  "cause": "unknown; seeds may appear in other rooms",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "evening",
+  "source": "thought",
+  "quote": "not just trust the book's promise",
+  "cause": "evening watch (doubted)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "evening",
+  "source": "journal",
+  "quote": "the book's promise isn't confirmed yet",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "thought",
+  "quote": "The book's promise still hasn't been confirmed",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "journal",
+  "quote": "the book's promise is still unconfirmed",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "journal",
+  "quote": "stop treating the promise as reliable",
+  "cause": "evening watch (doubted)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "The book's promise still hasn't been confirmed",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 5,
+  "time": "evening",
+  "source": "journal",
+  "quote": "the book's promise is still unconfirmed",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Still no new seeds from the watch, so the promise is unconfirmed.",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "I won't count on it",
+  "cause": "evening watch (doubted)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Still no seeds credited to the watch.",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "the plant itself may be making new seeds",
+  "cause": "the tended plant's seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "New seeds may come from the plant itself, not from the watch.",
+  "cause": "the tended plant, not the watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "check whether the pod has dropped seeds onto the soil",
+  "cause": "pod dropping seeds onto soil",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Still no seeds credited to the watch.",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "morning",
+  "source": "journal",
+  "quote": "New seeds most likely come from the plant's pod.",
+  "cause": "the plant's seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "morning",
+  "source": "journal",
+  "quote": "try taking whatever item name the examine shows (seed, seeds, pod), plant the new seeds",
+  "cause": "taking seeds from the pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "the pod may drop seeds by itself later, so check the soil each morning",
+  "cause": "pod dropping seeds by itself",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Still no seeds credited to the watch.",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 9,
+  "time": "evening",
+  "source": "journal",
+  "quote": "look for loose seeds on the soil or in other rooms (the pod may drop them)",
+  "cause": "pod dropping seeds",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "morning",
+  "source": "thought",
+  "quote": "this is a morning after an on-time watch. I should go to the garden, look for new seeds",
+  "cause": "on-time evening watch",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Still no seeds credited to the watch.",
+  "cause": "evening watch (unconfirmed)",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ }
+]

@@ -1,0 +1,232 @@
+[
+ {
+  "day": 3,
+  "time": "morning",
+  "source": "thought",
+  "quote": "so a bird probably dropped it",
+  "cause": "a bird (feathers nearby)",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "A bird dropped a new seed",
+  "cause": "a bird",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 3,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A bird dropped a new seed overnight",
+  "cause": "a bird",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "thought",
+  "quote": "apparently dropped by another bird",
+  "cause": "a bird, in the library",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "writing",
+  "quote": "Overnight a bird dropped a second seed in the garden",
+  "cause": "a bird",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "writing",
+  "quote": "a third seed with feathers turned up here in the library",
+  "cause": "a bird (feathers), in the library",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Found another bird-dropped seed (new seed 2) in the library",
+  "cause": "a bird, in the library",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "evening",
+  "source": "writing",
+  "quote": "The second seed (dropped by a bird)",
+  "cause": "a bird",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 4,
+  "time": "evening",
+  "source": "writing",
+  "quote": "Another bird-dropped seed turned up in the library",
+  "cause": "a bird, in the library",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "afternoon",
+  "source": "thought",
+  "quote": "the birds that keep bringing seeds",
+  "cause": "birds",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "the birds that bring seeds",
+  "cause": "birds",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 6,
+  "time": "evening",
+  "source": "journal",
+  "quote": "maybe birds visit the dish",
+  "cause": "bird water dish attracting birds",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "thought",
+  "quote": "which I could harvest and replant later",
+  "cause": "harvesting plant 1's seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "morning",
+  "source": "journal",
+  "quote": "Its seeds could be harvested and planted",
+  "cause": "harvesting plant 1's seed pod",
+  "self_caused": true,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "These could be the garden's first home-grown seeds.",
+  "cause": "plant 1's seed pod",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "try harvesting seeds from the pod",
+  "cause": "harvesting the seed pod",
+  "self_caused": true,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 7,
+  "time": "evening",
+  "source": "journal",
+  "quote": "Wait and see whether the pod splits or drops seeds by itself",
+  "cause": "pod splitting or dropping seeds naturally",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "writing",
+  "quote": "I'm waiting for it to drop seeds naturally.",
+  "cause": "pod dropping seeds naturally",
+  "self_caused": false,
+  "stance": "hypothesis",
+  "verified": true
+ },
+ {
+  "day": 8,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "just wait for the pod to drop seeds",
+  "cause": "pod dropping seeds",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "A bird dropped a seed in the window room",
+  "cause": "a bird, in the window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "The window room is where the birds drop seeds now",
+  "cause": "birds, in the window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "afternoon",
+  "source": "journal",
+  "quote": "so check it daily",
+  "cause": "birds dropping seeds in the window room",
+  "self_caused": false,
+  "stance": "instruction",
+  "verified": true
+ },
+ {
+  "day": 10,
+  "time": "evening",
+  "source": "writing",
+  "quote": "A bird dropped a fourth seed in the window room.",
+  "cause": "a bird, in the window room",
+  "self_caused": false,
+  "stance": "fact",
+  "verified": true
+ }
+]
